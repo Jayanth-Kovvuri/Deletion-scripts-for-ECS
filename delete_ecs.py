@@ -70,5 +70,5 @@ for region_name in regions:
     print(region_name, count)
     result.append((region_name, count))
 
-# No of de leted clusters per region
+# No of deleted clusters per region(INFO)
 print(*result, sep='\n')
