@@ -1,4 +1,5 @@
 # python script to delete Task definations across regions
+# Taskdefinations need to be inactive before deleting
 import boto3
 from time import time
 
